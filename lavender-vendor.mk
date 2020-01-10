@@ -1814,6 +1814,7 @@ PRODUCT_PACKAGES += \
     libantradio \
     vendor.qti.hardware.fm@1.0 \
     libthermalclient \
+    libbtconfigstore \
     libtime_genoff \
     com.quicinc.cne.api@1.0 \
     com.quicinc.cne.api@1.1 \
